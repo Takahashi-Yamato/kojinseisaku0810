@@ -10,4 +10,10 @@ public class RezultBottun : MonoBehaviour
         int lastStage = PlayerPrefs.GetInt("LastStage", 0);
         SceneManager.LoadScene(lastStage);
     }
+    // タイトルへボタンのOnClickに割り当て
+    public void OnTitleButton()
+    {
+        Time.timeScale = 1f;
+        UnityEngine.SceneManagement.SceneManager.LoadScene("TitleScene");
+    }
 }
