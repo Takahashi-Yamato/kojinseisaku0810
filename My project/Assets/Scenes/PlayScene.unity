@@ -408,7 +408,7 @@ MonoBehaviour:
   waitTopTime: 1
   waitBottomTime: 1
   player: {fileID: 760841471}
-  triggerDistance: 2.2
+  triggerDistance: 1.5
 --- !u!1 &868672681
 GameObject:
   m_ObjectHideFlags: 0
