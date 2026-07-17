@@ -10,12 +10,4 @@ SPACEでジャンプ
 <img width="2050" height="1168" alt="image" src="https://github.com/user-attachments/assets/4d0c053d-e6d1-486c-b517-3c60c89b1d6b" />
 
 プレイ動画
-[レコーディング 2026-07-17 141529.zip](https://github.com/user-attachments/files/30111537/2026-07-17.141529.zip)
-
-
-
-
-
-
-
-
+[se_jump_006.wav](https://github.com/user-attachments/files/29875964/se_jump_006.wav)
